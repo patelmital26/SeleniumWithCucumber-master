@@ -1,2 +1,2 @@
 # SeleniumWithCucumber-master
-Using Cucumber with Selenium Login Test
+Using Selenium with Cucumber Login Test
